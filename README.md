@@ -19,6 +19,8 @@
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
+El comando "pwd" me dice la direccion en la cual me encuentro en la terminal
+![PWD en git bash](/desktop/pwd.png)
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
