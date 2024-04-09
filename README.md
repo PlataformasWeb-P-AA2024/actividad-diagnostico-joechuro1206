@@ -2,7 +2,18 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
+- Java
+- TypeScript
+- Python
+- JavaScript
+- HTMLl
 ### 2. ¿Qué comandos conoce de GIT?
+- git config
+- git clone
+- git add .
+- git commit
+- git push
+- git status
 ### 3. Ejemplifique el comando de Linux: mv
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
